@@ -27,7 +27,7 @@ public class LoginPage {
 		driver.findElement(By.xpath("//*[@id=\"root\"]/div/div/div/div[1]/div[2]/div/form/div[4]/a")).click();
 		Thread.sleep(100);
 		   String title = driver.getTitle();
-
+//dguywgudygwu
 	        // Print the title
 	        System.out.println("Page title is: " + title);
 	       
